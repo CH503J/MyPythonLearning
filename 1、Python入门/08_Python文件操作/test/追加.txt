@@ -4,4 +4,4 @@ beijing shanghai itheima
 shenzhen guangzhou itheima
 wuhan hangzhou itheima
 zhengzhou bigdata itheima
-你好Python，再见Python你好Python，再见Python
+你好Python，再见Python你好Python，再见Python你好Python，再见Python
