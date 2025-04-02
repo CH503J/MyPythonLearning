@@ -6,7 +6,7 @@
 """
 import time
 
-file_path = "C:/Users/junchen/PycharmProjects/MyPythonLearning/1、Python入门/08_Python文件操作/test/读取.txt"
+file_path = "C:/Develop/PythonProjects/MyPythonLearning/1、Python入门/08_Python文件操作/test/读取.txt"
 # 打开文件
 file = open(file_path, 'r', encoding='utf-8')
 print(type(file))

@@ -4,7 +4,7 @@
     1. 追加模式中，目标文件必须已存在，写入内容会在目标文件的最后继续写入
 """
 
-file_path = "/1、Python入门/08_Python文件操作/test/追加.txt"
+file_path = "C:/Develop/PythonProjects/MyPythonLearning/1、Python入门/08_Python文件操作/test/追加.txt"
 # 读取文件
 file = open(file_path, 'a', encoding='utf-8')
 
